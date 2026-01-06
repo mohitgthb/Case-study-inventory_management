@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const pool = require("../db");
-const { getAvgDailySales, getThreshold } = require("./utils/sales");
+const { getAvgDailySales, getThreshold } = require("../utils/sales");
 
 router.get("/api/companies/:companyId/alerts/low-stock", async (req, res) => {
   const { companyId } = req.params;
