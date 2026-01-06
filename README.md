@@ -1,3 +1,6 @@
+Case Study Drive Link
+https://docs.google.com/document/d/1kpFcXrcnJeaRbLvDeNpefNQ3SMrhO9ZpB1buaQLdUXc/edit?usp=sharing
+
 Inventory Management System – Backend Case Study
 
 Candidate Name: Mohit Choudhari
